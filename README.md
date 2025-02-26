@@ -1,5 +1,7 @@
-![image](attachments/image_20250225144224.png)
 
+<div align="center">
+  <img src="./attachments/image_20250225144224.png" width="50%"/>
+</div>
 ### Hi there 👋
 ---
 I'm a Computer Science and Cybersecurity student, passionate about programming, cybersecurity, and building meaningful tech projects.
