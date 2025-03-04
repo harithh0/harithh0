@@ -11,7 +11,7 @@ I'm a Computer Science and Cybersecurity student, passionate about programming, 
 * 🌱 I’m currently learning Algorithms, C, git, and databases
 * 💡 Interests: Cybersecurity, backend development, low-level programming, and automation
 * 📝 Blog: Sharing my journey and projects in development and cybersecurity
-* 🤝 I’m looking to collaborate on awesome projects
+* 🤝 I’m looking to collaborate on open-source projects
 
 ### 📚 My Portfolio
 ---
