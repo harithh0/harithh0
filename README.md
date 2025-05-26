@@ -30,5 +30,5 @@ I'm a Computer Science and Cybersecurity student, passionate about programming, 
 ---
 \
 \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harithh0&layout=compact&exclude_repo=caesar-decrypt&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harithh0&layout=compact&theme=radical)
 
