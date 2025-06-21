@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 ---
-I'm a Computer Science and Cybersecurity student, passionate about programming, cybersecurity, and building meaningful tech projects.
+I'm a Computer Science and Cybersecurity student, passionate about programming, cybersecurity, and building meaningful programming projects.
 
 <!-- * 🔭 I’m currently working on [UniBites](https://unibites.app) & Security+ -->
 * 🌱 I’m currently learning Algorithms, C, git, and databases
