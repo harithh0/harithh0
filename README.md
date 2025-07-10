@@ -15,7 +15,7 @@ I'm a Computer Science and Cybersecurity student, passionate about programming, 
 
 ### 📚 My Portfolio
 ---
-[![Portfolio](https://img.shields.io/badge/-harithh.site-blue?style=for-the-badge&)](https://harithh.site)
+[![Portfolio](https://img.shields.io/badge/-harithh.com-blue?style=for-the-badge&)](https://harithh.com)
 
 ### 📬 Reach me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-hayyawi)
