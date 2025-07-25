@@ -8,7 +8,6 @@
 I'm a Computer Science and Cybersecurity student, passionate about programming, cybersecurity, and building meaningful programming projects.
 
 <!-- * 🔭 I’m currently working on [UniBites](https://unibites.app) & Security+ -->
-* 🌱 I’m currently learning Algorithms, C, git, and databases
 * 💡 Interests: Cybersecurity, backend development, low-level programming, and automation
 * 📝 Blog: Sharing my journey and projects in development and cybersecurity
 * 🤝 I’m looking to collaborate on open-source projects
