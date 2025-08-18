@@ -12,8 +12,9 @@ I'm a Computer Science and Cybersecurity student, passionate about programming, 
 * 📝 Blog: Sharing my journey and projects in development and cybersecurity
 * 🤝 I’m looking to collaborate on open-source projects
 
-### 📚 My Portfolio
 ---
+
+### 📚 My Portfolio
 [![Portfolio](https://img.shields.io/badge/-harithh.com-blue?style=for-the-badge&)](https://harithh.com)
 
 ### 📄 Certifications
