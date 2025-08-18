@@ -17,9 +17,10 @@ I'm a Computer Science and Cybersecurity student, passionate about programming, 
 [![Portfolio](https://img.shields.io/badge/-harithh.com-blue?style=for-the-badge&)](https://harithh.com)
 
 ### 📄 Certifications
+<div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+</div>
 
 ### 📬 Reach me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harith-hayyawi)
